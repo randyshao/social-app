@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://rs2000:CookedSteambun10@socials.baqk5.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
